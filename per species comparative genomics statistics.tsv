@@ -1,0 +1,100 @@
+	Dlaeve_longestOrfs.good.faa	proteoma_humano.faa
+Number of genes	24337	136282
+Number of genes in orthogroups	18637	122078
+Number of unassigned genes	5700	14204
+Percentage of genes in orthogroups	76.6	89.6
+Percentage of unassigned genes	23.4	10.4
+Number of orthogroups containing species	9244	14454
+Percentage of orthogroups containing species	54.6	85.4
+Number of species-specific orthogroups	2468	7678
+Number of genes in species-specific orthogroups	9592	79843
+Percentage of genes in species-specific orthogroups	39.4	58.6
+
+
+Number of genes per-species in orthogroup	Number of orthogroups	Number of orthogroups
+'0	7678	2468
+'1	5237	2204
+'2	2716	2296
+'3	567	1634
+'4	234	1270
+'5	130	936
+'6	80	751
+'7	63	610
+'8	31	516
+'9	28	405
+'10	29	377
+11-15	60	1290
+16-20	25	750
+21-50	34	1196
+51-100	9	206
+101-150	0	9
+151-200	1	4
+201-500	0	0
+501-1000	0	0
+'1001+	0	0
+
+Number of genes per-species in orthogroup	Percentage of orthogroups	Percentage of orthogroups
+'0	45.4	14.6
+'1	30.9	13.0
+'2	16.1	13.6
+'3	3.4	9.7
+'4	1.4	7.5
+'5	0.8	5.5
+'6	0.5	4.4
+'7	0.4	3.6
+'8	0.2	3.0
+'9	0.2	2.4
+'10	0.2	2.2
+11-15	0.4	7.6
+16-20	0.1	4.4
+21-50	0.2	7.1
+51-100	0.1	1.2
+101-150	0.0	0.1
+151-200	0.0	0.0
+201-500	0.0	0.0
+501-1000	0.0	0.0
+'1001+	0.0	0.0
+
+Number of genes per-species in orthogroup	Number of genes	Number of genes
+'0	0	0
+'1	5237	2204
+'2	5432	4592
+'3	1701	4902
+'4	936	5080
+'5	650	4680
+'6	480	4506
+'7	441	4270
+'8	248	4128
+'9	252	3645
+'10	290	3770
+11-15	757	16478
+16-20	439	13378
+21-50	1084	35968
+51-100	531	12784
+101-150	0	1037
+151-200	159	656
+201-500	0	0
+501-1000	0	0
+'1001+	0	0
+
+Number of genes per-species in orthogroup	Percentage of genes	Percentage of genes
+'0	0.0	0.0
+'1	21.5	1.6
+'2	22.3	3.4
+'3	7.0	3.6
+'4	3.8	3.7
+'5	2.7	3.4
+'6	2.0	3.3
+'7	1.8	3.1
+'8	1.0	3.0
+'9	1.0	2.7
+'10	1.2	2.8
+11-15	3.1	12.1
+16-20	1.8	9.8
+21-50	4.5	26.4
+51-100	2.2	9.4
+101-150	0.0	0.8
+151-200	0.7	0.5
+201-500	0.0	0.0
+501-1000	0.0	0.0
+'1001+	0.0	0.0
